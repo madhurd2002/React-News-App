@@ -31,7 +31,7 @@ The application fetches real-time news articles using the **NewsAPI** and provid
 
 ## 📂 Project Structure
 
-
+```text
 React_NewsApp/
 │
 ├── public/
@@ -74,7 +74,7 @@ npm install bootstrap
 Start the development server:
 
 npm run dev
-
+```
 
 ## 🎥 Project Demo
 
