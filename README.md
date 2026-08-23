@@ -52,3 +52,25 @@ React_NewsApp/
 ├── .env
 ├── package.json
 └── README.md
+
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/your-repository-name.git
+
+Navigate to the project:
+
+cd React_NewsApp
+
+Install dependencies:
+
+npm install
+
+Install Bootstrap if required:
+
+npm install bootstrap
+
+Start the development server:
+
+npm run dev
