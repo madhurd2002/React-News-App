@@ -75,6 +75,9 @@ Start the development server:
 
 npm run dev
 
-```text
+```markdown
+
+## 🎥 Project Demo
+
 https://github.com/user-attachments/assets/50cc97b3-ae51-40c7-b5e1-56bdf3d9a6c6
 
